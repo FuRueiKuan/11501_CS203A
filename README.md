@@ -19,7 +19,7 @@
 # Repository description  
 GitHub account: https://FuRueiKuan.github.io  
 - Course Repository: 11501_CS203A  
-- Course Repository URL: https://github.com/FuRueiKuan/11501_CS203A.git 
+- Course Repository URL: [https://github.com/FuRueiKuan/11501_CS203A](https://github.com/FuRueiKuan/11501_CS203A.git) 
 - Personal Website Repository: FuRueiKuan.github.io  
 - Personal Website Repository URL:   
 https://github.com/FuRueiKuan/FuRueiKuan.github.io   
