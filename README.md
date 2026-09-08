@@ -24,4 +24,4 @@ GitHub account: [https://FuRueiKuan.github.io](https://FuRueiKuan.github.io)
 - Personal Website Repository URL: 
 https://github.com/FuRueiKuan/FuRueiKuan.github.io 
 - GitHub Pages: [https://FuRueiKuan.github.io](https://FuRueiKuan.github.io) 
-- Personal Website [https://FuRueiKuan.github.io](Optional): (https://FuRueiKuan.github.io) 
+- Personal Website: [https://FuRueiKuan.github.io](Optional)(https://FuRueiKuan.github.io) 
