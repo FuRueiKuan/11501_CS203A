@@ -17,11 +17,11 @@
 # Your name/student ID :　
 傅睿寬 / 1141553 
 # Repository description  
-GitHub account: [](https://FuRueiKuan.github.io)  
+GitHub account: [] (https://FuRueiKuan.github.io)  
 - Course Repository: 11501_CS203A  
-- Course Repository URL: [](https://FuRueiKuan.github.io/11501_CS203A)  
+- Course Repository URL: [] (https://FuRueiKuan.github.io/11501_CS203A)  
 - Personal Website Repository: FuRueiKuan.github.io  
 - Personal Website Repository URL: 
 https://github.com/FuRueiKuan/FuRueiKuan.github.io 
-- GitHub Pages: [](https://FuRueiKuan.github.io) 
-- Personal Website [](Optional): (https://FuRueiKuan.github.io) 
+- GitHub Pages: [] (https://FuRueiKuan.github.io) 
+- Personal Website [] (Optional): (https://FuRueiKuan.github.io) 
